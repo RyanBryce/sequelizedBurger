@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "eat da burger",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PapaDeere/burger.git"
+  },
+  "author": "papa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapaDeere/burger/issues"
+  },
+  "homepage": "https://github.com/PapaDeere/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
