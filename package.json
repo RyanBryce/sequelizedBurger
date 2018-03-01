@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PapaDeere/burger.git"
+    "url": "https://github.com/RyanBryce/sequelizedBurger.git"
   },
   "author": "papa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PapaDeere/burger/issues"
+    "url": "https://github.com/RyanBryce/sequelizedBurger/issues"
   },
-  "homepage": "https://github.com/PapaDeere/burger#readme",
+  "homepage": "https://github.com/RyanBryce/sequelizedBurger#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
